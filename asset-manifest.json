@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hoangan/static/css/main.073c9b0a.css",
+    "main.js": "/hoangan/static/js/main.1cc0460d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/hoangan/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/hoangan/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/hoangan/index.html",
+    "main.073c9b0a.css.map": "/hoangan/static/css/main.073c9b0a.css.map",
+    "main.1cc0460d.js.map": "/hoangan/static/js/main.1cc0460d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/hoangan/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1cc0460d.js"
+  ]
+}
